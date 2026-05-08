@@ -56,23 +56,23 @@ This repository contains a structured set of academic assignments implemented us
 
 ## 📁 Project Structure
 
-datasets/
-
-iris.csv
-Titanic-Dataset.csv
-
-notebooks/
-
-01_Iris_Analysis.R
-02_Descriptive_Statistics.R
-03_Apriori_Association.R
-04_Linear_Regression.R
-05_Logistic_Regression.R
-06_Naive_Bayes.R
-07_Decision_Tree_KMeans.R
-08_Random_Forest.R
-
-README.md
+r-data-mining-and-machine-learning-assignments/
+├── datasets/ # All datasets used in assignments
+│ ├── iris.csv
+│ ├── Titanic-Dataset.csv
+│
+├── notebooks/ # R programming assignments
+│   ├── 01_Iris_Dataset_Statistical_Analysis.R
+│   ├── 02_Descriptive_Statistics_and_Hypothesis_Testing.R
+│   ├── 03_Apriori_Association_Rule_Mining.R
+│   ├── 04_Linear_Regression_Model.R
+│   ├── 05_Logistic_Regression_and_ROC_Curve.R
+│   ├── 06_Naive_Bayes_Titanic_Classification.R
+│   ├── 07_Decision_Tree_and_KMeans_Clustering.R
+│   ├── 08_Random_Forest_Classification.R
+│    
+│
+└── README.md # Project documentation
 
 ## 🎯 Outcome
 
