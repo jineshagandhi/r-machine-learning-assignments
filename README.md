@@ -55,26 +55,26 @@ This repository contains a structured set of academic assignments implemented us
 ---
 
 ## 📁 Project Structure
+
 datasets/
-│── iris.csv
-│── Titanic-Dataset.csv
-│── Airquality.csv
-│── Groceries.csv
+
+iris.csv
+Titanic-Dataset.csv
+Airquality.csv
+Groceries.csv
 
 notebooks/
-│── 01_Iris_Analysis.R
-│── 02_Descriptive_Statistics.R
-│── 03_Apriori_Association.R
-│── 04_Linear_Regression.R
-│── 05_Logistic_Regression.R
-│── 06_Naive_Bayes.R
-│── 07_Decision_Tree_KMeans.R
-│── 08_Random_Forest.R
+
+01_Iris_Analysis.R
+02_Descriptive_Statistics.R
+03_Apriori_Association.R
+04_Linear_Regression.R
+05_Logistic_Regression.R
+06_Naive_Bayes.R
+07_Decision_Tree_KMeans.R
+08_Random_Forest.R
 
 README.md
-
-
----
 
 ## 🎯 Outcome
 
