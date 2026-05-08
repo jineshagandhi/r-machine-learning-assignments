@@ -60,8 +60,6 @@ datasets/
 
 iris.csv
 Titanic-Dataset.csv
-Airquality.csv
-Groceries.csv
 
 notebooks/
 
